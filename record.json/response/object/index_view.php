@@ -70,8 +70,8 @@
 
 			<tr>
 				<td>title</td>
-				<td><a href="/documentation/record.json/response/object/title" title="title[]">title[]</a></td>
-				<td>A collection title objects <span class="todo">more explanation needed - what is this, why would i use it, any online references to it</span></td>
+				<td>array</td>
+				<td>A collection of titles</td>
 			</tr>
 
 			<tr>
